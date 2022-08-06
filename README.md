@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I am design developer soobeen-jeong.
+### I am a learner who constantly studies and research soobeen-jeong.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoobeen-jeong&count_bg=%23FF9BB6&title_bg=%23CF92E3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Soobeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=soobeen-jeong&show_icons=true&theme=cobalt)
